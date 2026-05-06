@@ -47,7 +47,3 @@ The correlation matrix provides insight into diversification. By analyzing how t
 ### **Author**
 **Sijie Hu**  
 MS in Information Systems, Data Analytics | Baruch College
----
-
-### **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
