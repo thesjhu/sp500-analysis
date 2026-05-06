@@ -17,6 +17,10 @@ This project demonstrates the application of quantitative finance principles thr
 *   **Visualization:** Seaborn, Matplotlib
 *   **Data Source:** yfinance (Yahoo Finance API)
 
+![chart.png](chart1.png)
+![chart.png](chart2.png)
+![chart.png](chart3.png)
+
 ### **Installation & Usage**
 
 **1. Clone the repository**
